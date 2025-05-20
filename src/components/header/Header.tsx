@@ -29,8 +29,8 @@ const Header: React.FC<HeaderProps> = ({ scrolledPast }) => {
     >
       <div className="container mx-auto px-6 py-4 md:py-5 flex justify-between items-center">
         <a href="#hero" className="flex items-center space-x-2 text-xl font-semibold">
-          <Code className="w-6 h-6 text-accent" />
-          <span className="gradient-text-primary">Ahmad Raza</span>
+          {/* <Code className="w-6 h-6 text-accent" /> */}
+          <span className="gradient-text-primary">  &lt;ahmad.raza/&gt;</span>
         </a>
 
         {/* Desktop Navigation */}
