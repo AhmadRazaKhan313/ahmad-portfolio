@@ -46,7 +46,7 @@ const About: React.FC = () => {
               <Card className="p-8 mb-8">
                 <h3 className="text-2xl font-bold mb-4 gradient-text-primary">Who am I?</h3>
                 <p className="text-text-secondary mb-4">
-                  I'm a passionate Frontend Developer with over 5 years of experience in creating 
+                  I'm a passionate Frontend Developer with over 3 years of experience in creating 
                   exceptional user experiences. I specialize in modern JavaScript frameworks like 
                   React, Vue, and Angular, and I'm always eager to learn new technologies.
                 </p>
