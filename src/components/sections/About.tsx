@@ -48,7 +48,7 @@ const About: React.FC = () => {
                 <p className="text-text-secondary mb-4">
                   I'm a passionate Frontend Developer with over 3 years of experience in creating 
                   exceptional user experiences. I specialize in modern JavaScript frameworks like 
-                  React, Vue, and Angular, and I'm always eager to learn new technologies.
+                  React.js,React Native, and next, and I'm always eager to learn new technologies.
                 </p>
                 <p className="text-text-secondary">
                   With a strong foundation in UI/UX design principles and a keen eye for detail, 
@@ -71,11 +71,7 @@ const About: React.FC = () => {
                   <ul className="space-y-4">
                     <li>
                       <h4 className="font-medium">Senior Frontend Developer</h4>
-                      <p className="text-sm text-text-secondary">TechCorp Inc. • 2021 - Present</p>
-                    </li>
-                    <li>
-                      <h4 className="font-medium">UI Developer</h4>
-                      <p className="text-sm text-text-secondary">WebSolutions • 2018 - 2021</p>
+                      <p className="text-sm text-text-secondary">Enigmatix pvt Ltd. • 2022 - Present</p>
                     </li>
                   </ul>
                 </Card>
@@ -92,11 +88,11 @@ const About: React.FC = () => {
                   <ul className="space-y-4">
                     <li>
                       <h4 className="font-medium">MSc in Computer Science</h4>
-                      <p className="text-sm text-text-secondary">Tech University • 2016 - 2018</p>
+                      <p className="text-sm text-text-secondary">Islamia University of Bahawalpur • 2017 - 2019</p>
                     </li>
                     <li>
                       <h4 className="font-medium">BSc in Software Engineering</h4>
-                      <p className="text-sm text-text-secondary">State University • 2012 - 2016</p>
+                      <p className="text-sm text-text-secondary">Islamia University of Bahawalpur • 2014 - 2017</p>
                     </li>
                   </ul>
                 </Card>
@@ -117,19 +113,15 @@ const About: React.FC = () => {
                 <ul className="space-y-6">
                   <li className="border-l-2 border-primary-start pl-4 py-2">
                     <h4 className="font-medium">Best Frontend Project</h4>
-                    <p className="text-sm text-text-secondary">WebTech Awards • 2022</p>
+                    <p className="text-sm text-text-secondary">Exigmatix Awards • 2024</p>
                   </li>
                   <li className="border-l-2 border-primary-end pl-4 py-2">
                     <h4 className="font-medium">JavaScript Certification</h4>
-                    <p className="text-sm text-text-secondary">Advanced JS • 2021</p>
+                    <p className="text-sm text-text-secondary">Advanced JS • 2023</p>
                   </li>
                   <li className="border-l-2 border-secondary-start pl-4 py-2">
                     <h4 className="font-medium">UI/UX Excellence Award</h4>
-                    <p className="text-sm text-text-secondary">Design Summit • 2020</p>
-                  </li>
-                  <li className="border-l-2 border-secondary-end pl-4 py-2">
-                    <h4 className="font-medium">React Conference Speaker</h4>
-                    <p className="text-sm text-text-secondary">ReactCon • 2019</p>
+                    <p className="text-sm text-text-secondary">Design Summit • 2022</p>
                   </li>
                 </ul>
                 
