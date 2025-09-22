@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 text-xl font-semibold mb-4">
               <Code className="w-6 h-6 text-accent" />
-              <span className="gradient-text-primary">Ahmad Raza</span>
+            <span className="gradient-text-primary">  &lt;ahmad.raza/&gt;</span>
             </div>
             <p className="text-text-secondary mb-6 max-w-md">
               A passionate Frontend Developer focused on creating beautiful and functional web experiences with modern technologies.
